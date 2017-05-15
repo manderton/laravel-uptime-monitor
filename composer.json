@@ -1,8 +1,7 @@
 {
-    "name": "spatie/laravel-uptime-monitor",
+    "name": "manderton/laravel-uptime-monitor",
     "description": "A powerful, easy to configure uptime monitor",
     "keywords": [
-        "spatie",
         "laravel-uptime-monitor"
     ],
     "homepage": "https://github.com/spatie/laravel-uptime-monitor",
